@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Классификация игр-->
+<classificationOfGames>
+    <year name="2021">
+        <genre name='Horror'>
+            <game>Resident Evil Village</game>
+            <game>Impostor Factory</game>
+            <game>Happy Game</game>
+            <game>Doctor Who: The Lonely Assassins</game>
+            <game>Tormented Souls</game>
+        </genre>
+        <genre name="MMORPG">
+            <game>Elyon</game>
+            <game>New World</game>
+            <game>Phantasy Star Online 2 New Genesis</game>
+            <game>Crowfall</game>
+            <game>Gran Saga</game>
+        </genre>
+        <genre name="Visual Novel">
+            <game>Silicon Dreams</game>
+            <game>Doki Doki Literature Club Plus!</game>
+            <game>The Great Ace Attorney Chronicles</game>
+            <game>Overboard!</game>
+            <game>Ambition: A Minuet in Power</game>
+        </genre>
+        <genre name="Shooter">
+            <game>Unsighted</game>
+            <game>IMPACT</game>
+            <game>Mass Effect Legendary Edition</game>
+            <game>Halo Infinite</game>
+            <game>Breathedge</game>
+        </genre>
+    </yaer>
+    <year name="2020">
+        <genre name='Horror'>
+            <game>The Coma 2: Vicious Sisters</game>
+            <game>CARRION</game>
+            <game>Visage</game>
+            <game>Observation</game>
+            <game>The Shattering</game>
+        </genre>
+        <genre name="MMORPG">
+            <game>Astellia</game>
+            <game>Phantasy Star Online 2</game>
+            <game>Hegemony</game>
+            <game>Legends of Aria</game>
+            <game>Bloodstone : The Ancient Curse</game>
+        </genre>
+        <genre name="Visual Novel">
+            <game>Mission: It's Complicated</game>
+            <game>Chicken Police</game>
+            <game>If Found...</game>
+            <game>Suzerain</game>
+            <game>Wintermoor Tactics Club</game>
+        </genre>
+        <genre name="Shooter">
+            <game>Half-Life: Alyx</game>
+            <game>HUNTDOWN</game>
+            <game>Black Mesa</game>
+            <game>Super Mega Baseball 3</game>
+            <game>Cyberpunk 2077</game>
+        </genre>
+    </yaer>
+</classificationOfGames>
